@@ -1,4 +1,6 @@
-# Assignment Solution
+# Please install Numpy for it
+
+
 # Through this code we are trying to analyse and find out which method among FCFS, SPT, EDD, LPT, SSL, SCR, and a Usr specified method is
 # best for sequencing of jobs considering different factors such as Utilisation, Average Lateness, Average Flow time and Average No. of 
 # jobs in the system. The code generates Processing time and Due date values according to the constraint given in the question. It then 
