@@ -1,5 +1,6 @@
 # job-scheduling-algorithms
 
+This project was developed as part of the **Principles of Industrial Engineering (ME207)** course at **IIT Indore**.
 
 This Python program evaluates various job sequencing methods for a single machine to determine the best method based on multiple performance metrics. The methods analyzed include:
 - **FCFS (First-Come-First-Serve)**
