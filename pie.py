@@ -6,14 +6,6 @@
 # the considered factor and that method is shown as output.
 # The code can be run for more than one simulation for accuracy.
 
-# Team:
-# Sidhwa Tanuj Haresh       - 230003073
-# Tejas Bhavekar            - 230003079
-# Kavya Amitkumar Patel     - 230003050
-# Samriddha Sirsant         - 230003066
-# Adinath Apte              - 230003004
-
-
 from numpy import *
 import random
 
